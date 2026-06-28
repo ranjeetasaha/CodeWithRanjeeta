@@ -1,2 +1,2 @@
 # CodeWithRanjeeta
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+A curated collection of Data Structures & Algorithms solutions in C++, documenting my journey toward stronger problem-solving and coding interview preparation.
