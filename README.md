@@ -7,4 +7,12 @@ A curated collection of Data Structures & Algorithms solutions in C++, documenti
 |  |
 | ------- |
 | [2652-sum-multiples](https://github.com/ranjeetasaha/CodeWithRanjeeta/tree/master/2652-sum-multiples) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ranjeetasaha/CodeWithRanjeeta/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ranjeetasaha/CodeWithRanjeeta/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
