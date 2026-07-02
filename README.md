@@ -41,4 +41,12 @@ A curated collection of Data Structures & Algorithms solutions in C++, documenti
 |  |
 | ------- |
 | [0436-find-right-interval](https://github.com/ranjeetasaha/CodeWithRanjeeta/tree/master/0436-find-right-interval) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ranjeetasaha/CodeWithRanjeeta/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ranjeetasaha/CodeWithRanjeeta/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
