@@ -6,6 +6,7 @@ A curated collection of Data Structures & Algorithms solutions in C++, documenti
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/ranjeetasaha/CodeWithRanjeeta/tree/master/0050-powx-n) |
 | [2652-sum-multiples](https://github.com/ranjeetasaha/CodeWithRanjeeta/tree/master/2652-sum-multiples) |
 ## Array
 |  |
@@ -49,4 +50,8 @@ A curated collection of Data Structures & Algorithms solutions in C++, documenti
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ranjeetasaha/CodeWithRanjeeta/tree/master/0020-valid-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/ranjeetasaha/CodeWithRanjeeta/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
