@@ -17,6 +17,7 @@ A curated collection of Data Structures & Algorithms solutions in C++, documenti
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ranjeetasaha/CodeWithRanjeeta/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/ranjeetasaha/CodeWithRanjeeta/tree/master/0169-majority-element) |
 | [0436-find-right-interval](https://github.com/ranjeetasaha/CodeWithRanjeeta/tree/master/0436-find-right-interval) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/ranjeetasaha/CodeWithRanjeeta/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A curated collection of Data Structures & Algorithms solutions in C++, documenti
 | ------- |
 | [0169-majority-element](https://github.com/ranjeetasaha/CodeWithRanjeeta/tree/master/0169-majority-element) |
 | [0436-find-right-interval](https://github.com/ranjeetasaha/CodeWithRanjeeta/tree/master/0436-find-right-interval) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/ranjeetasaha/CodeWithRanjeeta/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Counting
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A curated collection of Data Structures & Algorithms solutions in C++, documenti
 |  |
 | ------- |
 | [0436-find-right-interval](https://github.com/ranjeetasaha/CodeWithRanjeeta/tree/master/0436-find-right-interval) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/ranjeetasaha/CodeWithRanjeeta/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## String
 |  |
 | ------- |
@@ -65,4 +68,5 @@ A curated collection of Data Structures & Algorithms solutions in C++, documenti
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ranjeetasaha/CodeWithRanjeeta/tree/master/0011-container-with-most-water) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/ranjeetasaha/CodeWithRanjeeta/tree/master/2517-maximum-tastiness-of-candy-basket) |
 <!---LeetCode Topics End-->
